@@ -1,1 +1,1 @@
-# LSE
+# Lista Simplesmente Encadeada
